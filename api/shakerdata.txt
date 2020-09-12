@@ -1,1 +1,12 @@
-[{"display": 0, "label": "Status","value": "Running"},{"display": 1, "label": "Profile rms", "value": "6.00"},{"display": 2, "label": "Control rms", "value": "5.80"},{"display": 3, "label": "Control err", "value": "-3.33 %"},{"display": 4, "label": "Time at test", "value": "01:00:00"},{"display": 5, "label": "Time remaining", "value": "04:00:00"}]
+{
+  "indicator": 61, 
+  "contents": 
+          [
+            {"display": 0, "label": "Status","value": "Seeded Data"},
+            {"display": 1, "label": "Profile rms", "value": "6.00"},
+            {"display": 2, "label": "Control rms", "value": "5.80"},
+            {"display": 3, "label": "Control err", "value": "0.5409%"},
+            {"display": 4, "label": "Time at test", "value": "01:00:00"},
+            {"display": 5, "label": "Time remaining", "value": "04:00:00"}
+          ]
+}
